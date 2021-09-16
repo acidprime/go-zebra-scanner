@@ -1,7 +1,7 @@
 module github.com/acidprime/go-zebra-scanner/snapi
 
 require (
-	github.com/google/gousb v0.0.0
+	github.com/google/gousb  v1.1.1
 	github.com/sirupsen/logrus v1.1.1
 )
 
