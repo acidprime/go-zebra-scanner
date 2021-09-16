@@ -1,4 +1,4 @@
-module github.com/elemecca/go-zebra-scanner/snapi
+module github.com/acidprime/go-zebra-scanner/snapi
 
 require (
 	github.com/google/gousb v0.0.0
